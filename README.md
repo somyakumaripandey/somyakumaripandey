@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @somyakumaripandey
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+DESCRIPTION
 
-<!---
-somyakumaripandey/somyakumaripandey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+While searching for the dream house, the buyer looks at various factors, not just at the height of the basement ceiling or the proximity to an east-west railroad.
+
+Using the dataset, find the factors that influence price negotiations while buying a house.
+
+There are 79 explanatory variables describing every aspect of residential homes in Ames, Iowa.
+
+
